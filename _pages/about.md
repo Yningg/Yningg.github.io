@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a Ph.D. student at the [DANTE](https://www3.ntu.edu.sg/scse/dmal/dante/) at Nanyang Technological University (NTU), fortunate supervised by [Prof. Sourav S Bhowmick](https://personal.ntu.edu.sg/assourav/) and [Prof. Chen Shen-Hsing Annabel](https://dr.ntu.edu.sg/cris/rp/rp01013). I received my B.Eng. degree in Computer Science and Technology from Sichuan University in 2022, where I was supervised by Prof. Liu Quanhui on computational epidemiology. I've always had a strong interest in interdisciplinary computing research, and my current research interests focus on the social psychology-informed design of social search and analytics techniques.
+I'm currently a Ph.D. student at the School of Computer Science and Engineering (SCSE) at Nanyang Technological University (NTU), supervised by [Prof. Sourav S Bhowmick](https://personal.ntu.edu.sg/assourav/) and [Prof. Chen Shen-Hsing Annabel](https://dr.ntu.edu.sg/cris/rp/rp01013). I received my B.Eng. degree in Computer Science and Technology from Sichuan University in 2022. During my time there, I had the privilege of being involved in groundbreaking research in computational epidemiology under the guidance of Prof. Liu Quanhui. With a profound interest in interdisciplinary computing research, my current research interests focus on the social psychology-informed design of social search and analytics techniques.
 
 
 ## Publications
