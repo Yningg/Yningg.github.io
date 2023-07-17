@@ -13,4 +13,4 @@ I'm currently a Ph.D. student at the School of Computer Science and Engineering 
 
 
 # Publications
-* [[May. 2022] Quantifying human mixing patterns in Chinese provinces outside Hubei after the 2020 lockdown was lifted](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-022-07455-7) <span style="color:gray">*Zhao Y, O’Dell S, Yang X, et al. Quantifying human mixing patterns in Chinese provinces outside Hubei after the 2020 lockdown was lifted[J]. BMC Infectious Diseases, 2022, 22(1): 1-10.*</span>
+* May. 2022 [Quantifying human mixing patterns in Chinese provinces outside Hubei after the 2020 lockdown was lifted](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-022-07455-7) <span style="color:gray">*Zhao Y, O’Dell S, Yang X, et al. Quantifying human mixing patterns in Chinese provinces outside Hubei after the 2020 lockdown was lifted[J]. BMC Infectious Diseases, 2022, 22(1): 1-10.*</span>
