@@ -13,6 +13,6 @@ I'm a Ph.D. student at the [DANTE](https://www3.ntu.edu.sg/scse/dmal/dante/) at 
 
 
 
-Publications
+# Publications
 ======
-* [[May. 2022]Quantifying human mixing patterns in Chinese provinces outside Hubei after the 2020 lockdown was lifted](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-022-07455-7) 
+* [[May. 2022] Quantifying human mixing patterns in Chinese provinces outside Hubei after the 2020 lockdown was lifted](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-022-07455-7) 
