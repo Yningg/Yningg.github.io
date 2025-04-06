@@ -14,8 +14,8 @@ I'm currently a Ph.D. candidate in the College of Computing and Data Science (CC
 With a profound interest in interdisciplinary computing research, my current research interests focus on the social psychology-informed design of social search and analytics techniques.
 
 # 🔥 News
-* <span style="color:red"> Apr. 2025 Excited to share that our paper on the experimental analysis of community search algorithms inspired by social psychology has been accepted to SIGIR 2025! </span>
+* <span style="color:red"> Apr. 2025 </span> Excited to share that our paper on <u>the experimental analysis of community search algorithms inspired by social psychology</u> has been accepted to **SIGIR 2025**🎉🎉! 
 
 # 📄 Publications
-* May. 2024 [Social Psychology Meets Social Computing: State of the Art and Future Directions](https://dl.acm.org/doi/abs/10.1145/3589335.3641242) <span style="color:gray">*S Bhowmick, Sourav, et al. "Social Psychology Meets Social Computing: State of the Art and Future Directions." Companion Proceedings of the ACM on Web Conference 2024. 2024.*</span>
-* May. 2022 [Quantifying human mixing patterns in Chinese provinces outside Hubei after the 2020 lockdown was lifted](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-022-07455-7) <span style="color:gray">*Zhao Y, O’Dell S, Yang X, et al. Quantifying human mixing patterns in Chinese provinces outside Hubei after the 2020 lockdown was lifted[J]. BMC Infectious Diseases, 2022, 22(1): 1-10.*</span>
+* May. 2024 [Social Psychology Meets Social Computing: State of the Art and Future Directions](https://dl.acm.org/doi/abs/10.1145/3589335.3641242) <span style="color:gray">*S Bhowmick, Sourav, et al. "Social Psychology Meets Social Computing: State of the Art and Future Directions." **Companion Proceedings of the ACM on Web Conference 2024.** 2024.*</span>
+* May. 2022 [Quantifying human mixing patterns in Chinese provinces outside Hubei after the 2020 lockdown was lifted](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-022-07455-7) <span style="color:gray">*Zhao Y, O’Dell S, Yang X, et al. Quantifying human mixing patterns in Chinese provinces outside Hubei after the 2020 lockdown was lifted[J]. **BMC Infectious Diseases**, 2022, 22(1): 1-10.*</span>
