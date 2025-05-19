@@ -4,7 +4,7 @@ main:
     url: /
     
   - title: "Notes"
-    url: /note/
+    url: "https://github.com/Yningg/Notes/"
 
   - title: "News"
     url: "/#-news"
