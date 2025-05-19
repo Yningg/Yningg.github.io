@@ -1,0 +1,2 @@
+# 🔥 News
+* <span style="color:red"> Apr. 2025 </span> Excited to share that our paper on <u>the experimental analysis of community search algorithms inspired by social psychology</u> has been accepted to **SIGIR 2025**🎉🎉! 
