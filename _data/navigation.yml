@@ -7,19 +7,19 @@ main:
     url: "https://github.com/Yningg/Notes/"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#-News"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#-Publications"
 
   - title: "Projects"
-    url: "/#-projects"
+    url: "/#-Projects"
 
   - title: "Teaching"
-    url: "/#-teaching"
+    url: "/#-Teaching"
 
   - title: "Education"
-    url: "/#-education"
+    url: "/#-Education"
 
 #  - title: "Invited Talks"
 #    url: "/#-invited-talks"
