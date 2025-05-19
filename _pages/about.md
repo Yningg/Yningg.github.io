@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Yining's Homepage"
 excerpt: ""
 author_profile: true
 redirect_from: 
