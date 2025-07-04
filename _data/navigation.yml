@@ -3,8 +3,8 @@ main:
   - title: "About"
     url: "/#-about"
     
-  - title: "Notes"
-    url: "https://github.com/Yningg/Notes/"
+  - title: "Blogs"
+    url: "https://yningg.github.io/Blogs/"
 
   - title: "News"
     url: "/#-news"
