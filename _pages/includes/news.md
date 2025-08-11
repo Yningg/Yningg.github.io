@@ -1,2 +1,2 @@
 # 🔥 News
-* <span style="color:red"> Apr. 2025 </span> Excited to share that our paper on <u>the experimental analysis of community search algorithms inspired by social psychology</u> has been accepted to **SIGIR 2025**🎉🎉! 
+* <span style="color:red"> Aug. 2025 </span> Glad to share that our narrative review <u>on cohesion in social psychology and social computing</u> has appeared in **IEEE TCDE Data Engineering Bulletin.** 🎉🎉! 
