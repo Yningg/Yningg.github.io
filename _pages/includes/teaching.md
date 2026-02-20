@@ -1,4 +1,6 @@
 # 👩‍🏫 Teaching
++ **Tutorial Instructor**: 
+  + Data Science Fundamentals (SC3021), AY2025–26-Sem2, NTU
 + **Guest Tutorial Instructor**: 
   + Computational Thinking (CE1003/CZ1003), AY2025–26-Sem1, NTU
 
